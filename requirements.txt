@@ -1,0 +1,34 @@
+# LLM & Agent Framework
+langchain
+langchain-mistralai
+langgraph
+langchain-community
+
+# Web Search & Scraping
+tavily-python
+beautifulsoup4
+
+# Environment Variables
+python-dotenv
+
+# Document Processing
+pypdf
+python-docx
+
+# Vector Database & Embeddings
+chromadb
+sentence-transformers
+
+# API / Backend
+fastapi
+uvicorn
+
+# Frontend
+streamlit
+
+# Data & HTTP
+requests
+pandas
+
+# Validation
+pydantic
